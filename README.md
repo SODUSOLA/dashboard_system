@@ -214,9 +214,6 @@ The application uses Google Gemini 2.0 Flash for:
 3. **Q2 2026**: Mobile app development
 4. **Q3 2026**: Enterprise features and API integrations
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
 1. Fork the repository
