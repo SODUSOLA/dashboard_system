@@ -1,4 +1,4 @@
-# Interactive Sales Dashboard
+# InsightFlow - Interactive Sales Dashboard
 
 A powerful, AI-enhanced business intelligence platform built with Streamlit that transforms raw data into actionable insights through automated analysis, interactive visualizations, and professional reporting.
 
